@@ -1,0 +1,165 @@
+﻿=== TUAN 1 ===
+1. Mß╗ƒ File Explorer: Nhß║Ñn tß╗ò hß╗úp ph├¡m Windows + E hoß║╖c nhß║Ñp v├áo biß╗âu t╞░ß╗úng th╞░ mß╗Ñc m├áu v├áng tr├¬n
+thanh t├íc vß╗Ñ.
+2. Truy cß║¡p ß╗ò ─æ─⌐a/th╞░ mß╗Ñc: ß╗₧ cß╗Öt b├¬n tr├íi, nhß║Ñp v├áo This PC, sau ─æ├│ nhß║Ñp ─æ├║p v├áo mß╗Öt ß╗ò ─æ─⌐a kh├┤ng phß║úi
+ß╗ò hß╗ç thß╗æng (v├¡ dß╗Ñ: ß╗ò D: hoß║╖c E:). Nß║┐u chß╗ë c├│ ß╗ò C:, h├úy v├áo th╞░ mß╗Ñc Documents.
+3. Tß║ío th╞░ mß╗Ñc mß╗¢i: Nhß║Ñp chuß╗Öt phß║úi v├áo mß╗Öt khoß║úng trß╗æng -> chß╗ìn New -> Folder. ─Éß║╖t t├¬n th╞░ mß╗Ñc l├á
+ThucHanh_hotensinhvien (v├¡ dß╗Ñ: ThucHanh_NguyenVanA). Nhß║Ñn Enter.
+
+
+=== TUAN 2 ===
+B├ái tß║¡p 2: T├¼m kiß║┐m v├á ─æ├ính gi├í th├┤ng tin hß╗ìc thuß║¡t
+I. Giß╗¢i thiß╗çu
+ΓÇó Chß╗º ─æß╗ü nghi├¬n cß╗⌐u: Lß║¡p tr├¼nh h╞░ß╗¢ng ─æß╗æi t╞░ß╗úng trong Java ΓÇô Thß╗½a kß║┐ v├á ─Éa h├¼nh.
+ΓÇó Chß╗º ─æß╗ü n├áy ─æ╞░ß╗úc lß╗▒a chß╗ìn v├¼ li├¬n quan trß╗▒c tiß║┐p ─æß║┐n m├┤n hß╗ìc Lß║¡p tr├¼nh n├óng cao (LTNC) tß║íi
+─Éß║íi hß╗ìc Quß╗æc Gia H├á Nß╗Öi, ─æß╗ông thß╗¥i c├│ t├¡nh ß╗⌐ng dß╗Ñng cao trong thß╗▒c tiß╗àn. Mß╗Ñc ti├¬u cß╗ºa b├ío
+c├ío l├á:
+ΓÇó T├¼m kiß║┐m v├á tß╗òng hß╗úp t├ái liß╗çu tham khß║úo tß╗½ nhiß╗üu nguß╗ôn kh├íc nhau.
+ΓÇó ─É├ính gi├í ─æß╗Ö tin cß║¡y cß╗ºa c├íc nguß╗ôn dß╗▒a tr├¬n ti├¬u ch├¡ hß╗ìc thuß║¡t.
+ΓÇó X├óy dß╗▒ng hß╗ç thß╗æng quß║ún l├╜ dß╗» liß╗çu khoa hß╗ìc, c├│ khß║ú n─âng mß╗ƒ rß╗Öng.
+ΓÇó ─Éß╗ü xuß║Ñt chiß║┐n l╞░ß╗úc sao l╞░u dß╗» liß╗çu ─æß╗â ─æß║úm bß║úo an to├án l├óu d├ái.
+II. Qu├í tr├¼nh t├¼m kiß║┐m th├┤ng tin
+ΓÇó C╞í sß╗ƒ dß╗» liß╗çu hß╗ìc thuß║¡t: Google Scholar, Microsoft Academic, th╞░ viß╗çn VNU.
+ΓÇó Tß║íp ch├¡ khoa hß╗ìc chuy├¬n ng├ánh: IEEE Transactions on Software Engineering, ACM Computing
+Surveys.
+ΓÇó S├ích chuy├¬n khß║úo: ΓÇ£Object-Oriented Programming in JavaΓÇ¥ (Springer), ΓÇ£Effective JavaΓÇ¥ (Joshua
+Bloch).
+ΓÇó Nguß╗ôn mß╗ƒ tr├¬n internet: GitHub, Notion, blog kß╗╣ thuß║¡t.
+Tß╗½ kh├│a sß╗¡ dß╗Ñng: Java inheritance, Java polymorphism, object-oriented programming. Kß║┐t quß║ú
+ban ─æß║ºu thu ─æ╞░ß╗úc h├áng tr─âm t├ái liß╗çu, sau khi lß╗ìc theo ti├¬u ch├¡ (t├¡nh cß║¡p nhß║¡t, ─æß╗Ö tin cß║¡y, li├¬n
+quan trß╗▒c tiß║┐p), chß╗ìn ra 10 t├ái liß╗çu tham khß║úo, trong ─æ├│ c├│ ├¡t nhß║Ñt 5 b├ái b├ío khoa hß╗ìc.
+III. ─É├ính gi├í ─æß╗Ö tin cß║¡y
+C├íc ti├¬u ch├¡ ─æ├ính gi├í:
+ΓÇó T├íc giß║ú: hß╗ìc giß║ú, giß║úng vi├¬n, chuy├¬n gia CNTT.
+ΓÇó C╞í quan xuß║Ñt bß║ún: IEEE, ACM, Springer ΓåÆ ─æß╗Ö tin cß║¡y cao.
+ΓÇó Ph╞░╞íng ph├íp nghi├¬n cß╗⌐u: c├│ m├┤ h├¼nh, thß╗▒c nghiß╗çm, ph├ón t├¡ch.
+ΓÇó Tr├¡ch dß║½n: sß╗æ l╞░ß╗úng tr├¡ch dß║½n nhiß╗üu ΓåÆ uy t├¡n.
+ΓÇó T├¡nh cß║¡p nhß║¡t: t├ái liß╗çu tß╗½ 2018ΓÇô2025 ΓåÆ ph├╣ hß╗úp.
+Nh├¼n chung, c├íc b├ái b├ío khoa hß╗ìc tß╗½ IEEE/ACM c├│ ─æß╗Ö tin cß║¡y cao nhß║Ñt. S├ích chuy├¬n khß║úo cung cß║Ñp
+nß╗ün tß║úng vß╗»ng chß║»c nh╞░ng cß║ºn ch├║ ├╜ n─âm xuß║Ñt bß║ún. Nguß╗ôn mß╗ƒ hß╗»u ├¡ch cho thß╗▒c h├ánh nh╞░ng chß╗ë
+mang t├¡nh tham khß║úo phß╗Ñ.
+IV. Bß║úng tß╗òng hß╗úp nguß╗ôn th├┤ng tin
+N─âm Sß╗æ tr├¡ch ─Éß╗Ö tin
+Nguß╗ôn th├┤ng tin Loß║íi Nhß║¡n x├⌐t
+xuß║Ñt bß║ún dß║½n cß║¡y
+B├ái b├ío T├íc giß║ú uy t├¡n, nhiß╗üu
+IEEE paper on OOP 2023 500+ ΓÿàΓÿàΓÿàΓÿàΓÿà
+khoa hß╗ìc tr├¡ch dß║½n
+ACM survey on Java B├ái b├ío Xuß║Ñt bß║ún bß╗ƒi ACM,
+2
+
+=== TUAN 3 ===
+T├íc vß╗Ñ 3: Tß║ío c├óu hß╗Åi ├┤n tß║¡p vß╗ü chß╗º ─æß╗ü t├¡ch ph├ón:
+Prompt 1 (C╞í bß║ún)
+Tß║ío c├óu hß╗Åi ├┤n tß║¡p vß╗ü chß╗º ─æß╗ü t├¡ch ph├ón.
+C├óu trß║ú lß╗¥i:
+Prompt 2 (Cß║úi tiß║┐n)
+Tß║ío 10 c├óu hß╗Åi ├┤n tß║¡p vß╗ü chß╗º ─æß╗ü t├¡ch ph├ón, bao gß╗ôm:
+ΓÇó 5 c├óu trß║»c nghiß╗çm
+ΓÇó 5 c├óu tß╗▒ luß║¡n
+─Éß╗Ö kh├│ tß╗½ dß╗à ─æß║┐n trung b├¼nh.
+Prompt 3 (N├óng cao)
+Bß║ín l├á giß║úng vi├¬n ─æß║íi hß╗ìc. H├úy tß║ío bß╗Ö c├óu hß╗Åi ├┤n tß║¡p vß╗ü "t├¡ch ph├ón" gß╗ôm:
+ΓÇó 5 c├óu trß║»c nghiß╗çm (c├│ ─æ├íp ├ín v├á giß║úi th├¡ch)
+ΓÇó 3 c├óu tß╗▒ luß║¡n (c├│ h╞░ß╗¢ng dß║½n giß║úi)
+ΓÇó 2 c├óu vß║¡n dß╗Ñng cao
+Ph├ón loß║íi r├╡ mß╗⌐c ─æß╗Ö (dß╗à, trung b├¼nh, kh├│) v├á ─æß║úm bß║úo bao phß╗º c├íc dß║íng b├ái quan trß╗ìng
+So S├ính
+
+
+=== TUAN 4 ===
+B├üO C├üO C├ü NH├éN
+Sß╗¼ Dß╗ñNG C├öNG Cß╗ñ Hß╗óP T├üC TRß╗░C TUYß║╛N V├Ç QUß║óN L├¥
+NH├ôM
+Hß╗ì v├á t├¬n: V┼⌐ ─É─âng Tiß║┐n. MSV: 25020366
+Dß╗▒ ├ín: X├óy dß╗▒ng hß╗ç thß╗æng website ─æß║Ñu gi├í trß╗▒c tuyß║┐n
+Vai tr├▓ trong nh├│m: Dev Cache (Phß╗Ñ tr├ích x├óy dß╗▒ng Bß╗Ö nhß╗¢ ─æß╗çm (Cache) cho dß╗▒ ├ín)
+I. Mß╗₧ ─Éß║ªU
+Trong bß╗æi cß║únh l├ám viß╗çc nh├│m hiß╗çn ─æß║íi, viß╗çc ß╗⌐ng dß╗Ñng c├íc c├┤ng cß╗Ñ hß╗úp t├íc trß╗▒c tuyß║┐n l├á yß║┐u tß╗æ
+ki├¬n quyß║┐t ─æß╗â ─æß║úm bß║úo tiß║┐n ─æß╗Ö v├á chß║Ñt l╞░ß╗úng dß╗▒ ├ín. B├ío c├ío n├áy m├┤ tß║ú chi tiß║┐t qu├í tr├¼nh c├í nh├ón
+t├┤i ├íp dß╗Ñng c├íc nß╗ün tß║úng sß╗æ ─æß╗â quß║ún l├╜ t├íc vß╗Ñ, l╞░u trß╗» t├ái liß╗çu v├á t╞░╞íng t├íc c├╣ng 3 th├ánh vi├¬n kh├íc
+trong dß╗▒ ├ín ph├ít triß╗ân hß╗ç thß╗æng ─æß║Ñu gi├í trß╗▒c tuyß║┐n.
+II. Kß╗╕ N─éNG THIß║╛T Lß║¼P V├Ç Sß╗¼ Dß╗ñNG C├öNG Cß╗ñ
+─Éß╗â ─æ├íp ß╗⌐ng khß╗æi l╞░ß╗úng c├┤ng viß╗çc phß╗⌐c tß║íp cß╗ºa dß╗▒ ├ín, t├┤i ─æ├ú chß╗º ─æß╗Öng thiß║┐t lß║¡p v├á sß╗¡ dß╗Ñng ─æß╗ông
+thß╗¥i 4 c├┤ng cß╗Ñ thuß╗Öc c├íc nh├│m kh├íc nhau, c├│ sß╗▒ li├¬n kß║┐t chß║╖t chß║╜:
+1. Quß║ún l├╜ dß╗▒ ├ín: GitHub.
+2. Soß║ín thß║úo t├ái liß╗çu cß╗Öng t├íc: IntelliJ IDEA.
+3. L╞░u trß╗» v├á chia sß║╗ tß╗çp: GitHub.
+4. Giao tiß║┐p nh├│m: Messengers, Google Meet.
+III. QUß║óN L├¥ T├üC Vß╗ñ & T╞»╞áNG T├üC C├ü NH├éN
+1. Quß║ún l├╜ t├íc vß╗Ñ: Tß║Ñt cß║ú c├íc nhiß╗çm vß╗Ñ c├í nh├ón (v├¡ dß╗Ñ: Cß║Ñu h├¼nh auction_shop cache, thiß║┐t kß║┐
+CacheManager, InMemoryCacheStore, CacheStore) ─æß╗üu ─æ╞░ß╗úc t├┤i gß║»n m├┤ tß║ú (description) chi tiß║┐t
+v├á ─æß║╖t Deadline cß╗Ñ thß╗â. Trung b├¼nh mß╗ùi tuß║ºn, t├┤i cß║¡p nhß║¡t tiß║┐n ─æß╗Ö ├¡t nhß║Ñt 3-4 lß║ºn, bß║▒ng c├ích
+code tr├¬n IntelliJ, commit v├á push code l├¬n nh├ính c├í nh├ón tr├¬n GitHub v├á tß║ío Pull Request
+─æß╗âleader kiß╗âm tra, xß╗¡ l├╜ conflict v├á Merge v├áo sß║ún phß║⌐m.
+2. T╞░╞íng t├íc v├á hß╗ù trß╗ú ─æß╗ông ─æß╗Öi: Hoß║ít ─æß╗Öng trao ─æß╗òi diß╗àn ra li├¬n tß╗Ñc, vß╗¢i tß║ºn suß║Ñt tr├¬n 15 l╞░ß╗út
+t╞░╞íng t├íc/tuß║ºn tr├¬n Messengers cß╗ºa nh├│m. Kh├┤ng chß╗ë b├ío c├ío tiß║┐n ─æß╗Ö c├í nh├ón, t├┤i c├▓n chß╗º ─æß╗Öng
+hß╗ù trß╗ú c├íc th├ánh vi├¬n kh├íc giß║úi quyß║┐t c├íc conflict khi gh├⌐p code, review log lß╗ùi, v├á tham gia thß║úo
+luß║¡n chß╗æt API spec.
+
+
+=== TUAN 5 ===
+TR╞»ß╗£NG ─Éß║áI Hß╗îC C├öNG NGHß╗å ΓÇô ─ÉHQGHN (VNU-UET) B├üO C├üO: ß╗¿NG Dß╗ñNG GENERATIVE AI
+TRONG S├üNG Tß║áO Nß╗ÿI DUNG ─ÉA PH╞»╞áNG TIß╗åN
+Hß╗ì v├á t├¬n: V┼⌐ ─É─âng Tiß║┐n
+Lß╗¢p: K70I-IT6
+T├¬n dß╗▒ ├ín: Cß║⌐m nang sß╗æng khß╗Åe cho Coder
+─Éß╗ïnh dß║íng sß║ún phß║⌐m: B├ái viß║┐t Blog kß║┐t hß╗úp Infographic
+PHß║ªN I. GIß╗ÜI THIß╗åU Dß╗░ ├üN
+Dß╗▒ ├ín " Cß║⌐m nang sß╗æng khß╗Åe cho Coder " l├á mß╗Öt nß╗ù lß╗▒c nhß║▒m x├óy dß╗▒ng cß║⌐m nang ch─âm s├│c sß╗⌐c
+khß╗Åe tinh gß╗ìn d├ánh ri├¬ng cho lß║¡p tr├¼nh vi├¬n v├á sinh vi├¬n khß╗æi ng├ánh kß╗╣ thuß║¡t. Nhß║¡n thß║Ñy ├íp lß╗▒c tß╗½ c├íc
+─æß╗ô ├ín, viß╗çc xß╗¡ l├╜ thuß║¡t to├ín phß╗⌐c tß║íp hay quß║ún l├╜ c├íc dß╗▒ ├ín phß║ºn mß╗üm th╞░ß╗¥ng dß║½n ─æß║┐n lß╗æi sß╗æng
+thiß║┐u vß║¡n ─æß╗Öng, t├┤i ─æ├ú lß╗▒a chß╗ìn ─æß╗ïnh dß║íng B├ái viß║┐t Blog kß║┐t hß╗úp Infographic ─æß╗â truyß╗ün tß║úi th├┤ng
+─æiß╗çp. ─Éiß╗âm nhß║Ñn cß╗ºa dß╗▒ ├ín lß║ºn n├áy l├á viß╗çc ß╗⌐ng dß╗Ñng hß╗ç sinh th├íi Tr├¡ tuß╗ç nh├ón tß║ío tß║ío sinh
+(Generative AI) ─æß╗â tß╗æi ╞░u h├│a nguß╗ôn lß╗▒c v├á thß╗¥i gian trong suß╗æt v├▓ng ─æß╗¥i sß║ún xuß║Ñt nß╗Öi dung, m├┤
+phß╗Ång lß║íi quy tr├¼nh l├ám viß╗çc tinh gß╗ìn cß╗ºa mß╗Öt Product Manager thß╗▒c thß╗Ñ.
+PHß║ªN II. CHI TIß║╛T QU├ü TR├îNH ß╗¿NG Dß╗ñNG AI TRONG S├üNG Tß║áO
+─Éß╗â hiß╗çn thß╗▒c h├│a dß╗▒ ├ín, t├┤i ─æ├ú thiß║┐t lß║¡p mß╗Öt "tech stack" bao gß╗ôm 3 c├┤ng cß╗Ñ AI ß╗ƒ c├íc mß║úng kh├íc
+nhau: V─ân bß║ún, H├¼nh ß║únh v├á Thiß║┐t kß║┐.
+1. C├┤ng cß╗Ñ AI tß║ío v─ân bß║ún: Google Gemini (Bß║ún Pro)
+T├┤i sß╗¡ dß╗Ñng Gemini ─æß╗â v╞░ß╗út qua hß╗Öi chß╗⌐ng "trang giß║Ñy trß║»ng" (writer's block) v├á x├óy dß╗▒ng bß╗Ö khung
+logic cho b├ái viß║┐t.
+ΓÇó Prompt ─æ├ú sß╗¡ dß╗Ñng: "─É├│ng vai mß╗Öt chuy├¬n gia dinh d╞░ß╗íng v├á n─âng suß║Ñt. H├úy lß║¡p d├án ├╜ cho
+mß╗Öt b├ái blog h╞░ß╗¢ng dß║½n sinh vi├¬n IT chuß║⌐n bß╗ï bß╗»a ─ân s├íng (nhß║Ñn mß║ính m├│n Overnight Oats)
+v├á bß╗»a tr╞░a (Salad c├í hß╗ôi) si├¬u tß╗æc, kh├┤ng cß║ºn bß║¡t bß║┐p. Giß╗ìng v─ân n─âng ─æß╗Öng, d├╣ng c├íc tß╗½
+ngß╗» c├┤ng nghß╗ç nh╞░ 'hack hiß╗çu suß║Ñt', 'sß║¡p nguß╗ôn', 'nhß║úy sß╗æ'."
+ΓÇó Kß║┐t quß║ú nhß║¡n ─æ╞░ß╗úc: Gemini trß║ú vß╗ü mß╗Öt d├án ├╜ 4 phß║ºn rß║Ñt r├ánh mß║ích, ─æi k├¿m c├íc bullet point
+ph├ón t├¡ch lß╗úi ├¡ch cß╗ºa Omega-3 ─æß╗æi vß╗¢i n├úo bß╗Ö.
+ΓÇó C├ích chß╗ënh sß╗¡a v├á t├¡ch hß╗úp: ─Éß║ºu ra cß╗ºa Gemini h╞íi mang t├¡nh hß╗ìc thuß║¡t. T├┤i ─æ├ú cß║»t giß║úm
+bß╗¢t c├íc ph├ón t├¡ch h├│a hß╗ìc s├óu xa, ─æß╗ïnh dß║íng lß║íi c├íc ti├¬u ─æß╗ü (Heading 2, Heading 3) cho
+chuß║⌐n SEO v├á th├¬m thß║»t trß║úi nghiß╗çm c├í nh├ón (v├¡ dß╗Ñ: viß╗çc vß╗½a ─ân s├íng vß╗½a chß║íy code Java) ─æß╗â
+b├ái 
+
+=== TUAN 6 ===
+B├ái tß║¡p 4: Sß╗¡ dß╗Ñng AI c├│ tr├ích nhiß╗çm trong hß╗ìc tß║¡p v├á nghi├¬n cß╗⌐u
+1. Ch├¡nh s├ích AI cß╗ºa ─ÉHQG-HCM
+Ch├¡nh s├ích cß╗ºa ─ÉHQG-HCM ─æß╗æi vß╗¢i AI kh├┤ng nß║▒m ß╗ƒ mß╗Öt v─ân bß║ún cß║Ñm ─æo├ín cß╗▒c ─æoan, m├á
+─æ╞░ß╗úc cß╗Ñ thß╗â h├│a qua c├íc v─ân bß║ún h╞░ß╗¢ng dß║½n vß╗ü Li├¬m ch├¡nh hß╗ìc thuß║¡t (Academic
+Integrity) cß╗ºa hß╗ç thß╗æng v├á c├íc tr╞░ß╗¥ng th├ánh vi├¬n (ti├¬u biß╗âu nh╞░ quy ─æß╗ïnh mß╗¢i cß╗ºa Tr╞░ß╗¥ng ─ÉH
+Khoa hß╗ìc X├ú hß╗Öi v├á Nh├ón v─ân, hay ─æß╗ïnh h╞░ß╗¢ng thß╗▒c h├ánh tß║íi Tr╞░ß╗¥ng ─ÉH C├┤ng nghß╗ç Th├┤ng tin
+- UIT).
+Ch├¡nh s├ích n├áy tß║¡p trung v├áo 3 trß╗Ñ cß╗Öt lß╗¢n:
+ΓÇó Ranh giß╗¢i quyß╗ün t├íc giß║ú: AI ─æ╞░ß╗úc ─æß╗ïnh vß╗ï nghi├¬m ngß║╖t l├á c├┤ng cß╗Ñ hß╗ù trß╗ú ├╜ t╞░ß╗ƒng (AI-
+assisted), tuyß╗çt ─æß╗æi kh├┤ng ─æ╞░ß╗úc coi l├á t├íc giß║ú hoß║╖c ─æß╗ông t├íc giß║ú cß╗ºa bß║Ñt kß╗│ c├┤ng tr├¼nh
+nghi├¬n cß╗⌐u, b├ái b├ío khoa hß╗ìc hay tiß╗âu luß║¡n n├áo. Sß╗▒ s├íng tß║ío v├á t╞░ duy phß║ún biß╗çn cß╗ºa
+ng╞░ß╗¥i hß╗ìc l├á cß╗æt l├╡i kh├┤ng thß╗â thay thß║┐.
+ΓÇó An to├án v├á Bß║úo mß║¡t dß╗» liß╗çu (─Éiß╗âm ─æß║╖c tr╞░ng gß║»t gao): Quy ─æß╗ïnh cß╗ºa tr╞░ß╗¥ng nhß║Ñn
+mß║ính viß╗çc nghi├¬m cß║Ñm cung cß║Ñp c├íc th├┤ng tin thuß╗Öc danh mß╗Ñc b├¡ mß║¡t cß╗ºa nh├á
+tr╞░ß╗¥ng, b├¡ mß║¡t quß╗æc gia, hoß║╖c c├íc dß╗» liß╗çu nghi├¬n cß╗⌐u nß╗Öi bß╗Ö ch╞░a c├┤ng bß╗æ l├¬n c├íc
+m├┤ h├¼nh AI c├┤ng cß╗Öng (nh╞░ ChatGPT, Claude). ─Éiß╗üu n├áy nhß║▒m ng─ân chß║╖n nguy c╞í r├▓
+rß╗ë dß╗» liß╗çu khi AI sß╗¡ dß╗Ñng prompt cß╗ºa ng╞░ß╗¥i d├╣ng ─æß╗â hß╗ìc m├íy.
+ΓÇó Chß║┐ t├ái v├á Minh bß║ích: Ng╞░ß╗¥i hß╗ìc c├│ ngh─⌐a vß╗Ñ c├┤ng khai viß╗çc m├¼nh d├╣ng AI ß╗ƒ phß║ºn
+n├áo (thu thß║¡p sß╗æ liß╗çu, chß╗ënh sß╗¡a ng├┤n ngß╗»,...). Mß╗ìi h├ánh vi d├╣ng AI ─æß╗â "bß╗ïa ─æß║╖t" sß╗æ liß╗çu
+(hiß╗çn t╞░ß╗úng AI ß║úo t╞░ß╗ƒng) hoß║╖c sao ch├⌐p nguy├¬n v─ân kh├┤ng tr├¡ch dß║½n ─æß╗üu bß╗ï kh├⌐p v├áo
+khung kß╗╖ luß║¡t gian lß║¡n hß╗ìc thuß║¡t, nhß║╣ th├¼ hß╗ºy kß║┐t quß║ú b├ái tß║¡p, nß║╖ng th├¼ ─æ├¼nh chß╗ë hß╗ìc
+tß║¡p.
+2. T├│m tß║»t c├íc ─Éiß╗âm Cß╗æt l├╡i (Key Takeaways)
+─Éß╗â dß╗à h├¼nh dung, ch├¡nh s├ích AI cß╗ºa ─ÉHQG-HCM c├│ thß╗â t├│m gß╗ìn qua m├┤ h├¼nh quß║ún l├╜ sau:
+Quy tß║»c 3M trong ß╗⌐ng dß╗Ñng AI:
+ΓÇó Minh bß║ích (Transparency): D├╣ng l├á phß║úi khai b├ío, tr├¡ch dß║½n nguß╗ôn theo chuß║⌐n (APA
+7th, IEEE...).
+ΓÇó Mß╗▒c th╞░ß╗¢c (Moderation): Chß╗ë d├╣ng AI ─æß╗â gß╗úi ├╜ d├án ├╜, sß╗¡a ngß╗» ph├íp, tß╗æi ╞░u code;
+kh├┤ng giao ph├│ viß╗çc viß║┐t nß╗Öi dung hay kß║┐t luß║¡n cho AI.
+ΓÇó Bß║úo mß║¡t (Security): Kh├┤ng ─æß║⌐y dß╗» liß╗çu nhß║íy cß║úm, sß╗æ liß╗çu th├┤ cß╗ºa c├íc ─æß╗ü t├ái nghi├¬n
+cß╗⌐u cß║Ñp tr╞░ß╗¥ng/cß║Ñp nh├á n╞░ß╗¢c
+

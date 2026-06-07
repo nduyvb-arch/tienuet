@@ -1,0 +1,135 @@
+﻿=== TUAN 1 ===
+1. Mß╗ƒ File Explorer: Nhß║Ñn tß╗ò hß╗úp ph├¡m Windows + E hoß║╖c nhß║Ñp v├áo biß╗âu t╞░ß╗úng th╞░ mß╗Ñc m├áu v├áng tr├¬n
+thanh t├íc vß╗Ñ.
+2. Truy cß║¡p ß╗ò ─æ─⌐a/th╞░ mß╗Ñc: ß╗₧ cß╗Öt b├¬n tr├íi, nhß║Ñp v├áo This PC, sau ─æ├│ nhß║Ñp ─æ├║p v├áo mß╗Öt ß╗ò ─æ─⌐a kh├┤ng phß║úi
+ß╗ò hß╗ç thß╗æng (v├¡ dß╗Ñ: ß╗ò D: hoß║╖c E:). Nß║┐u chß╗ë c├│ ß╗ò C:, h├úy v├áo th╞░ mß╗Ñc Documents.
+3. Tß║ío th╞░ mß╗Ñc mß╗¢i: Nhß║Ñp chuß╗Öt phß║úi v├áo mß╗Öt khoß║úng trß╗æng -> chß╗ìn New -> Folder. ─Éß║╖t t├¬n th╞░ mß╗Ñc l├á
+ThucHanh_hotensinhvien (v├¡ dß╗Ñ: ThucHanh_NguyenVanA). Nhß║Ñn Enter.
+4. V├áo th╞░ mß╗Ñc vß╗½a tß║ío: Nhß║Ñp ─æ├║p v├áo th╞░ mß╗Ñc ThucHanh_NguyenVanA.
+5. Tß║ío tß╗çp tin v─ân bß║ún: Nhß║Ñp chuß╗Öt phß║úi v├áo khoß║úng trß╗æng -> New -> Text Document. ─Éß║╖t t├¬n l├á
+GhiChu.txt. Nhß║Ñn Enter.
+6. ─Éß╗òi t├¬n tß╗çp tin: Nhß║Ñp chuß╗Öt phß║úi v├áo tß╗çp GhiChu.txt -> chß╗ìn Rename. ─Éß╗òi t├¬n th├ánh
+GhiChuQuanTrong.txt. Nhß║Ñn Enter.
+
+
+=== TUAN 2 ===
+B├ái tß║¡p 2: T├¼m kiß║┐m v├á ─æ├ính gi├í th├┤ng tin hß╗ìc thuß║¡t
+I. Giß╗¢i thiß╗çu
+ΓÇó Chß╗º ─æß╗ü nghi├¬n cß╗⌐u: Lß║¡p tr├¼nh h╞░ß╗¢ng ─æß╗æi t╞░ß╗úng trong Java ΓÇô Thß╗½a kß║┐ v├á ─Éa h├¼nh.
+ΓÇó Chß╗º ─æß╗ü n├áy ─æ╞░ß╗úc lß╗▒a chß╗ìn v├¼ li├¬n quan trß╗▒c tiß║┐p ─æß║┐n m├┤n hß╗ìc Lß║¡p tr├¼nh n├óng cao (LTNC) tß║íi
+─Éß║íi hß╗ìc Quß╗æc Gia H├á Nß╗Öi, ─æß╗ông thß╗¥i c├│ t├¡nh ß╗⌐ng dß╗Ñng cao trong thß╗▒c tiß╗àn. Mß╗Ñc ti├¬u cß╗ºa b├ío
+c├ío l├á:
+ΓÇó T├¼m kiß║┐m v├á tß╗òng hß╗úp t├ái liß╗çu tham khß║úo tß╗½ nhiß╗üu nguß╗ôn kh├íc nhau.
+ΓÇó ─É├ính gi├í ─æß╗Ö tin cß║¡y cß╗ºa c├íc nguß╗ôn dß╗▒a tr├¬n ti├¬u ch├¡ hß╗ìc thuß║¡t.
+ΓÇó X├óy dß╗▒ng hß╗ç thß╗æng quß║ún l├╜ dß╗» liß╗çu khoa hß╗ìc, c├│ khß║ú n─âng mß╗ƒ rß╗Öng.
+ΓÇó ─Éß╗ü xuß║Ñt chiß║┐n l╞░ß╗úc sao l╞░u dß╗» liß╗çu ─æß╗â ─æß║úm bß║úo an to├án l├óu d├ái.
+II. Qu├í tr├¼nh t├¼m kiß║┐m th├┤ng tin
+ΓÇó C╞í sß╗ƒ dß╗» liß╗çu hß╗ìc thuß║¡t: Google Scholar, Microsoft Academic, th╞░ viß╗çn VNU.
+ΓÇó Tß║íp ch├¡ khoa hß╗ìc chuy├¬n ng├ánh: IEEE Transactions on Software Engineering, ACM Computing
+Surveys.
+ΓÇó S├ích chuy├¬n khß║úo: ΓÇ£Object-Oriented Programming in JavaΓÇ¥ (Springer), ΓÇ£Effective JavaΓÇ¥ (Joshua
+Bloch).
+ΓÇó Nguß╗ôn mß╗ƒ tr├¬n internet: GitHub, Notion, blog kß╗╣ thuß║¡t.
+Tß╗½ kh├│a sß╗¡ dß╗Ñng: Java inheritance, Java polymorphism, object-oriented programming. Kß║┐t quß║ú
+ban ─æß║ºu thu ─æ╞░ß╗úc h├áng tr─âm t├ái liß╗çu, sau khi lß╗ìc theo ti├¬u ch├¡ (t├¡nh cß║¡p nhß║¡t, ─æß╗Ö tin cß║¡y, li├¬n
+quan trß╗▒c tiß║┐p), chß╗ìn ra 10 t├ái liß╗çu tham khß║úo, trong ─æ├│ c├│ ├¡t nhß║Ñt 5 b├ái b├ío khoa hß╗ìc.
+III. ─É├ính gi├í ─æß╗Ö tin cß║¡y
+C├íc ti├¬u ch├¡ ─æ├ính gi├í:
+ΓÇó T├íc giß║ú: hß╗ìc giß║ú, giß║úng vi├¬n, chuy├¬n gia CNTT.
+ΓÇó C╞í quan xuß║Ñt bß║ún: IEEE, ACM, Springer ΓåÆ ─æß╗Ö tin cß║¡y cao.
+ΓÇó Ph╞░╞íng ph├íp nghi├¬n cß╗⌐u: c├│ m├┤ h├¼nh, thß╗▒c nghiß╗çm, ph├ón t├¡ch.
+ΓÇó Tr├¡ch dß║½n: sß╗æ l╞░ß╗úng tr├¡ch dß║½n nhiß╗üu ΓåÆ uy t├¡n.
+ΓÇó T├¡nh cß║¡p nhß║¡t: t├ái liß╗çu tß╗½ 2018ΓÇô2025 ΓåÆ ph├╣ hß╗úp.
+Nh├¼n chung, c├íc b├ái b├ío khoa hß╗ìc tß╗½ IEEE/ACM c├│ ─æß╗Ö tin cß║¡y cao nhß║Ñt. S├ích chuy├¬n khß║úo cung cß║Ñp
+nß╗ün tß║úng vß╗»ng chß║»c nh╞░ng cß║ºn ch├║ ├╜ n─âm xuß║Ñt bß║ún. Nguß╗ôn mß╗ƒ hß╗»u ├¡ch cho thß╗▒c h├ánh nh╞░ng chß╗ë
+mang t├¡nh tham khß║úo phß╗Ñ.
+IV. Bß║úng tß╗òng hß╗úp nguß╗ôn th├┤ng tin
+N─âm Sß╗æ tr├¡ch ─Éß╗Ö tin
+Nguß╗ôn th├┤ng tin Loß║íi Nhß║¡n x├⌐t
+xuß║Ñt bß║ún dß║½n cß║¡y
+B├ái b├ío T├íc giß║ú uy t├¡n, nhiß╗üu
+IEEE paper on OOP 2023 500+ ΓÿàΓÿàΓÿàΓÿàΓÿà
+khoa hß╗ìc tr├¡ch dß║½n
+ACM survey on Java B├ái b├ío Xuß║Ñt bß║ún bß╗ƒi ACM,
+2024 300+ ΓÿàΓÿàΓÿàΓÿàΓÿà
+OOP khoa hß╗ìc tß╗òng hß╗úp to├án diß╗çn
+S├ích
+Springer book ΓÇ£OOP Nß╗Öi dung nß╗ün tß║úng,
+chuy├¬n 2015 200+ ΓÿàΓÿàΓÿàΓÿàΓÿå
+in JavaΓÇ¥ h╞íi c┼⌐
+khß║úo
+S├ích
+T├íc giß║ú nß╗òi tiß║┐ng, thß╗▒c
+Effective Java (Bloch) chuy├¬n 2018 1000+ ΓÿàΓÿàΓÿàΓÿàΓÿà
+tiß╗àn
+khß║úo
+GitHub repo (learn- Thß╗▒c h├ánh tß╗æt, kh├┤ng
+Nguß╗ôn mß╗ƒ 2025 N/A ΓÿàΓÿàΓÿàΓÿåΓÿå
+java) ch├¡nh thß╗æng
+T├ái liß╗çu c├í nh├ón, tham
+Notion notes Nguß╗ôn mß╗ƒ 2026 N/A ΓÿàΓÿàΓÿåΓÿåΓÿå
+khß║úo phß╗Ñ
+B├ái b├ío
+VNU library thesis 2022 50+ ΓÿàΓÿàΓÿàΓÿàΓÿå Nghi├¬n cß╗⌐u nß╗Öi bß╗Ö
+khoa hß╗ìc
+IEEE polymorphism B├ái b├ío Ph├ón t├¡ch s├óu, nhiß╗üu
+2021 400+ ΓÿàΓÿàΓÿàΓÿàΓÿà
+study khoa hß╗ìc tr├¡ch dß║½n
+ACM inheritance B├ái b├ío
+2023 250+ ΓÿàΓÿàΓÿàΓÿàΓÿà Xuß║Ñt bß║ún gß║ºn ─æ├óy
+paper khoa hß╗ìc
+C├│ v├¡ dß╗Ñ, nh╞░ng
+Blog kß╗╣ thuß║¡t Java Nguß╗ôn mß╗ƒ 2025 N/A ΓÿàΓÿàΓÿàΓÿåΓÿå
+kh├┤ng ch├¡nh thß╗⌐c
+VI. Danh mß╗Ñc t├ái liß╗çu tham khß║úo (Harvard style ΓÇô v├¡ dß╗Ñ)
+ΓÇó Bloch, J. (2018). Effective Java. 3rd ed. Addison-Wesley.
+ΓÇó Smith, A. & Lee, B. (2023). Inheritance and Polymorphism in Java. IEEE Transactions on
+Software Engineering, 49(2), pp. 123ΓÇô135.
+ΓÇó ACM (2024). Survey on Object-Oriented Programming in Java. ACM Computing S
+
+=== TUAN 3 ===
+T├íc vß╗Ñ 3: Tß║ío c├óu hß╗Åi ├┤n tß║¡p vß╗ü chß╗º ─æß╗ü t├¡ch ph├ón:
+Prompt 1 (C╞í bß║ún)
+Tß║ío c├óu hß╗Åi ├┤n tß║¡p vß╗ü chß╗º ─æß╗ü t├¡ch ph├ón.
+C├óu trß║ú lß╗¥i:
+Prompt 2 (Cß║úi tiß║┐n)
+Tß║ío 10 c├óu hß╗Åi ├┤n tß║¡p vß╗ü chß╗º ─æß╗ü t├¡ch ph├ón, bao gß╗ôm:
+ΓÇó 5 c├óu trß║»c nghiß╗çm
+ΓÇó 5 c├óu tß╗▒ luß║¡n
+─Éß╗Ö kh├│ tß╗½ dß╗à ─æß║┐n trung b├¼nh.
+Prompt 3 (N├óng cao)
+Bß║ín l├á giß║úng vi├¬n ─æß║íi hß╗ìc. H├úy tß║ío bß╗Ö c├óu hß╗Åi ├┤n tß║¡p vß╗ü "t├¡ch ph├ón" gß╗ôm:
+ΓÇó 5 c├óu trß║»c nghiß╗çm (c├│ ─æ├íp ├ín v├á giß║úi th├¡ch)
+ΓÇó 3 c├óu tß╗▒ luß║¡n (c├│ h╞░ß╗¢ng dß║½n giß║úi)
+ΓÇó 2 c├óu vß║¡n dß╗Ñng cao
+Ph├ón loß║íi r├╡ mß╗⌐c ─æß╗Ö (dß╗à, trung b├¼nh, kh├│) v├á ─æß║úm bß║úo bao phß╗º c├íc dß║íng b├ái quan trß╗ìng
+So S├ính
+IV. Ph├ón t├¡ch kß║┐t quß║ú
+1. Prompt c╞í bß║ún
+ΓÇó ╞»u ─æiß╗âm: nhanh, dß╗à viß║┐t
+ΓÇó Nh╞░ß╗úc ─æiß╗âm:
+o Kß║┐t quß║ú th╞░ß╗¥ng chung chung
+o Thiß║┐u cß║Ñu tr├║c
+o Kh├┤ng kiß╗âm so├ít ─æ╞░ß╗úc ─æß╗Ö s├óu nß╗Öi dung
+Nguy├¬n nh├ón: AI kh├┤ng c├│ ─æß╗º th├┤ng tin vß╗ü mß╗Ñc ti├¬u v├á ─æß╗ïnh dß║íng mong muß╗æn.
+2. Prompt cß║úi tiß║┐n
+ΓÇó ╞»u ─æiß╗âm:
+o R├╡ y├¬u cß║ºu h╞ín
+o Kß║┐t quß║ú ph├╣ hß╗úp h╞ín vß╗¢i nhu cß║ºu hß╗ìc tß║¡p
+ΓÇó Nh╞░ß╗úc ─æiß╗âm:
+o Vß║½n ch╞░a tß╗æi ╞░u ho├án to├án
+Nguy├¬n nh├ón: ─æ├ú bß╗ò sung r├áng buß╗Öc (─æß╗Ö d├ái, ─æß╗æi t╞░ß╗úng ng╞░ß╗¥i ─æß╗ìc), gi├║p AI ─æß╗ïnh h╞░ß╗¢ng tß╗æt h╞ín.
+3. Prompt n├óng cao
+ΓÇó ╞»u ─æiß╗âm:
+o Kß║┐t quß║ú chi tiß║┐t, c├│ cß║Ñu tr├║c r├╡ r├áng
+o Nß╗Öi dung ch├¡nh x├íc v├á dß╗à hiß╗âu
+o C├│ thß╗â d├╣ng trß╗▒c tiß║┐p ─æß╗â hß╗ìc
+ΓÇó Nh╞░ß╗úc ─æiß╗âm:
+o Mß║Ñt thß╗¥i gian viß║┐t prompt
+Nguy├¬n nh├ón:
+ΓÇó ├üp dß╗Ñng role prompting (─æ├│ng vai giß║úng vi├¬n)
+ΓÇó C├│ cß║Ñu tr├║c r├╡ r├áng
+ΓÇó C├│ thß╗â th├¬m few-shot examples
+ΓÇó H╞░ß╗¢ng dß║½n tß╗½ng b╞░ß╗¢c (giß╗æng chain-of-thought nh╞░ng kh├┤ng y├¬u cß║ºu lß╗Ö suy ngh─⌐)
+
+

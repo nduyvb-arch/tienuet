@@ -1,0 +1,110 @@
+﻿python : Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+At line:1 char:1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Could not get F...sed as 4 floats:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+
+--- Trang 1 ---
+14:01 5/6/26 Lß╗¢p hß╗ìc - chi tiß║┐t | Hß╗ç thß╗æng ─æ├áo tß║ío trß╗▒c tuyß║┐n | ─Éß║íi Hß╗ìc Quß╗æc Gia H├á Nß╗Öi
+∩îâ SOß║áN GHI CH├Ü
+https://lms.vnu.edu.vn/learn/lop-hoc/chi-tiet/8304b188-fde2-471f-9bdb-9c69ac148e94 3/6
+--- Trang 2 ---
+14:01 5/6/26 Lß╗¢p hß╗ìc - chi tiß║┐t | Hß╗ç thß╗æng ─æ├áo tß║ío trß╗▒c tuyß║┐n | ─Éß║íi Hß╗ìc Quß╗æc Gia H├á Nß╗Öi
+∩îâ SOß║áN GHI CH├Ü
+https://lms.vnu.edu.vn/learn/lop-hoc/chi-tiet/8304b188-fde2-471f-9bdb-9c69ac148e94 4/6
+--- Trang 3 ---
+14:01 5/6/26 Lß╗¢p hß╗ìc - chi tiß║┐t | Hß╗ç thß╗æng ─æ├áo tß║ío trß╗▒c tuyß║┐n | ─Éß║íi Hß╗ìc Quß╗æc Gia H├á Nß╗Öi
+*Rubric ─æ├ính gi├í
+─Éiß╗âm tß╗æi
+STTT├¬n ti├¬u ch├¡(*) Mß╗⌐c 1 Mß╗⌐c 2 Mß╗⌐c 3 Mß╗⌐c 4
+─æa(*)
+- C├│ ├¡t h╞ín 2 trang; thiß║┐u - C├│ ─æß║ºy ─æß╗º trang giß╗¢i thiß╗çu - Thiß║┐t kß║┐ chuy├¬n nghiß╗çp, m├áu sß║»c
+- Thiß║┐t kß║┐ s├íng tß║ío, ─æß╗Öc ─æ├ío; t├¡ch
+trang giß╗¢i thiß╗çu hoß║╖c tß╗òng v├á tß╗òng kß║┐t; nhß║Ñt qu├ín;
+Thiß║┐t kß║┐ & cß║Ñu tr├║c hß╗úp yß║┐u tß╗æ ─æa ph╞░╞íng tiß╗çn;
+1 3 kß║┐t;
+Portfolio
+- Thiß║┐t kß║┐ ─æ╞ín giß║ún nh╞░ng - Cß║Ñu tr├║c logic, li├¬n kß║┐t chß║╖t chß║╜ giß╗»a
+- Tß╗æi ╞░u h├│a trß║úi nghiß╗çm ng╞░ß╗¥i d├╣ng.
+- Cß║Ñu tr├║c kh├│ ─æiß╗üu h╞░ß╗¢ng cß║Ñu tr├║c r├╡ r├áng. c├íc trang
+- Kh├┤ng c├│ ß║únh chß╗Ñp minh - Cß║Ñu tr├║c khoa hß╗ìc;
+- C├│ ß║únh chß╗Ñp v├á m├┤ tß║ú ngß║»n;
+hß╗ìa; - Cß║Ñu tr├║c th╞░ mß╗Ñc logic;
+Nhiß╗çm vß╗Ñ 1: Quß║ún l├╜ - Quy tß║»c ─æß║╖t t├¬n s├íng tß║ío;
+2 1 - Cß║Ñu tr├║c th╞░ mß╗Ñc v├á quy tß║»c
+tß╗çp v├á th╞░ mß╗Ñc - Cß║Ñu tr├║c th╞░ mß╗Ñc kh├┤ng - Quy tß║»c ─æß║╖t t├¬n nhß║Ñt qu├ín; c├│ m├┤ tß║ú
+─æß║╖t t├¬n ─æ├ú ─æ╞░ß╗úc tß║ío nh╞░ng
+logic hoß║╖c thiß║┐u quy tß║»c ─æß║╖t giß║úi th├¡ch l├╜ do thiß║┐t kß║┐. - M├┤ tß║ú thß╗â hiß╗çn sß╗▒ hiß╗âu s├óu sß║»c vß╗ü
+ch╞░a tß╗æi ╞░u.
+t├¬n. tß╗ò chß╗⌐c dß╗» liß╗çu.
+- Kh├┤ng ├íp dß╗Ñng to├ín tß╗¡ t├¼m - Sß╗¡ dß╗Ñng 2-3 to├ín tß╗¡ nh╞░ng
+- Sß╗¡ dß╗Ñng th├ánh thß║ío 3-4 to├ín tß╗¡ (site:, - Sß╗¡ dß╗Ñng linh hoß║ít tr├¬n 4 to├ín tß╗¡;
+Nhiß╗çm vß╗Ñ 2: T├¼m kiß║┐m n├óng cao; ch╞░a hiß╗çu quß║ú;
+filetype:...);
+3 kiß║┐m & ─æ├ính gi├í 1
+- Ph├ón t├¡ch rß║Ñt s├óu sß║»c vß╗ü chiß║┐n l╞░ß╗úc
+th├┤ng tin - Thiß║┐u ß║únh chß╗Ñp kß║┐t quß║ú v├á - ß║ónh chß╗Ñp ch╞░a r├╡ hoß║╖c
+- ß║ónh r├╡ r├áng; ph├ón t├¡ch s├óu sß║»c. t├¼m kiß║┐m v├á ─æ├ính gi├í.
+ph├ón t├¡ch. ph├ón t├¡ch c├▓n hß╗¥i hß╗út.
+- ├üp dß╗Ñng th├ánh thß║ío kß╗╣ thuß║¡t
+- Chß╗ë c├│ 1 phi├¬n bß║ún prompt; - C├│ prompt ban ─æß║ºu v├á cß║úi - ├üp dß╗Ñng hiß╗çu quß║ú nguy├¬n tß║»c viß║┐t
+Prompt Engineering;
+Nhiß╗çm vß╗Ñ 3: Viß║┐t tiß║┐n nh╞░ng sß╗▒ kh├íc biß╗çt nhß╗Å; prompt (vai tr├▓, bß╗æi cß║únh...);
+4 1
+Prompt hiß╗çu quß║ú - Prompt kh├┤ng li├¬n quan
+- So s├ính rß║Ñt s├óu sß║»c vß╗ü c╞í chß║┐ hoß║ít
+hoß║╖c kh├┤ng c├│ sß╗▒ so s├ính. - Giß║úi th├¡ch c├▓n ─æ╞ín giß║ún. - So s├ính v├á giß║úi th├¡ch logic.
+─æß╗Öng cß╗ºa AI.
+- Kh├┤ng sß╗¡ dß╗Ñng c├┤ng cß╗Ñ
+- C├│ sß╗¡ dß╗Ñng c├┤ng cß╗Ñ nh╞░ng
+quß║ún l├╜ dß╗▒ ├ín. - Sß╗¡ dß╗Ñng c├┤ng cß╗Ñ hiß╗çu quß║ú ─æß╗â lß║¡p kß║┐ - T├¡ch hß╗úp c├íc t├¡nh n─âng n├óng cao;
+ch╞░a hiß╗çu quß║ú;
+Nhiß╗çm vß╗Ñ 4: Hß╗úp t├íc hoß║ích v├á ph├ón c├┤ng;
+5 1
+trß╗▒c tuyß║┐n - Thiß║┐u ß║únh chß╗Ñp m├án h├¼nh - M├┤ tß║ú chi tiß║┐t c├ích tß╗æi ╞░u h├│a quy
+- Thiß║┐u chi tiß║┐t vß╗ü ph├ón c├┤ng
+v├á m├┤ tß║ú vß╗ü c├ích sß╗¡ dß╗Ñng - ß║ónh chß╗Ñp minh hß╗ìa r├╡ c├íc t├¡nh n─âng. tr├¼nh l├ám viß╗çc nh├│m.
+v├á theo d├╡i tiß║┐n ─æß╗Ö.
+c├┤ng cß╗Ñ.
+- C├│ sß║ún phß║⌐m nh╞░ng c├▓n lß╗ùi
+- Kh├┤ng c├│ sß║ún phß║⌐m nß╗Öi - Sß║ún phß║⌐m rß║Ñt chuy├¬n nghiß╗çp v├á
+kß╗╣ thuß║¡t hoß║╖c nß╗Öi dung ch╞░a - Sß║ún phß║⌐m r├╡ r├áng, hß║Ñp dß║½n;
+dung sß╗æ hoß║╖c sß║ún phß║⌐m s├íng tß║ío;
+Nhiß╗çm vß╗Ñ 5: S├íng hß║Ñp dß║½n;
+6 1 thiß║┐u chß║Ñt l╞░ß╗úng;
+tß║ío nß╗Öi dung vß╗¢i AI - M├┤ tß║ú chi tiß║┐t c├íc b╞░ß╗¢c sß║ún xuß║Ñt v├á
+- Thß╗â hiß╗çn khß║ú n─âng tß║¡n dß╗Ñng tß╗æi ─æa
+- M├┤ tß║ú ─æ╞░ß╗úc v├ái b╞░ß╗¢c sß║ún c├┤ng cß╗Ñ sß╗¡ dß╗Ñng.
+- M├┤ tß║ú quy tr├¼nh s╞í s├ái. c├íc c├┤ng cß╗Ñ AI.
+xuß║Ñt.
+- Kh├┤ng c├│ bß╗Ö nguy├¬n tß║»c
+- C├│ bß╗Ö nguy├¬n tß║»c (5-7 ─æiß╗üu) - Bß╗Ö nguy├¬n tß║»c c├í nh├ón r├╡ r├áng (5-7 - Bß╗Ö nguy├¬n tß║»c chi tiß║┐t; t╞░ duy phß║ún
+hoß║╖c nguy├¬n tß║»c chung
+nh╞░ng thiß║┐u cß╗Ñ thß╗â; ─æiß╗üu); biß╗çn cao;
+Nhiß╗çm vß╗Ñ 6: AI c├│ chung;
+7 1
+tr├ích nhiß╗çm
+- Ph├ón t├¡ch mß╗æi li├¬n hß╗ç c├▓n - Ph├ón t├¡ch s├óu sß║»c c├íc vß║Ñn ─æß╗ü ─æß║ío - ─Éß╗ü xuß║Ñt giß║úi ph├íp cho c├íc th├ích
+- Kh├┤ng li├¬n kß║┐t ─æ╞░ß╗úc vß╗¢i
+ch╞░a r├╡. ─æß╗⌐c AI. thß╗⌐c ─æß║ío ─æß╗⌐c.
+ch├¡nh s├ích.
+Nß╗Öi dung tß╗òng kß║┐t hß╗¥i hß╗út, Thß╗â hiß╗çn r├╡ kiß║┐n thß╗⌐c/kß╗╣ n─âng ─æ├ú hß╗ìc; Ph├ón t├¡ch s├óu sß║»c sß╗▒ tr╞░ß╗ƒng th├ánh
+Tß╗òng kß║┐t v├á ─æ├ính
+8 1 Kh├┤ng c├│ trang tß╗òng kß║┐t. ch╞░a thß╗â hiß╗çn r├╡ nhß╗»ng g├¼ ─æ├ú ─æ├ính gi├í ─æ╞░ß╗úc th├ích thß╗⌐c v├á b├ái hß╗ìc v├á c├ích ├íp dß╗Ñng c├íc kß╗╣ n─âng trong
+gi├í bß║ún th├ón
+hß╗ìc. kinh nghiß╗çm. t╞░╞íng lai.
+D╞░ß╗¢i ─æ├óy l├á mß╗Öt sß╗æ video tß╗½ youtube h╞░ß╗¢ng dß║½n tß║ío Website/Blog:
+- H╞»ß╗ÜNG Dß║¬N Sß╗¼ Dß╗ñNG GOOGLE SITE:
+Tiß║┐ng Viß╗çt: https://youtu.be/Yn03t68kukg?si=owwEkmnZ70TUsie4
+Tiß║┐ng Anh: https://www.youtube.com/watch?v=fwd48XTbntU
+- H╞»ß╗ÜNG Dß║¬N Sß╗¼ Dß╗ñNG NOTION:
+Tiß║┐ng Viß╗çt: https://www.youtube.com/watch?v=VAxBzTR2Hws
+Tiß║┐ng Anh: https://www.youtube.com/watch?v=-3QXs_g7R4A
+- H╞»ß╗ÜNG Dß║¬N Sß╗¼ Dß╗ñNG WIX:
+Tiß║┐ng Anh: https://youtu.be/8k1418d3sAU?si=4zZx3Hqg9NC_6ur9
+∩îâ SOß║áN GHI CH├Ü
+https://lms.vnu.edu.vn/learn/lop-hoc/chi-tiet/8304b188-fde2-471f-9bdb-9c69ac148e94 5/6
